@@ -157,5 +157,6 @@ char weeks[4][32] = {
   "XXyyXXYXY",
   "YXYxYYxYX",
   "xxyyxxYxY",
-  "yxyyxyXyX"
+  "yxyyxyXyX",
+  "XyxyyxyXy"
 };

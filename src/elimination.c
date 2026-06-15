@@ -410,7 +410,7 @@ void verify_meyerhoff(const char* where) {
 
 // Our parametrization forces 1j to be the Margulis point in the upper half space
 // and the Margulis number to be the distance x or y move 1j. This section validates
-// that the givn word w moves the Margulis point less, meaning the Margulis number is
+// that the given word w moves the Margulis point less, meaning the Margulis number is
 // stricktly smaller.
 
 
